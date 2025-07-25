@@ -151,4 +151,3 @@ The investigation confirms:
 
 ---
 
-> ℹ️ This Markdown document summarizes the investigation of a BitTorrent installation incident on a monitored VM. For internal use in your GitHub portfolio or documentation.
